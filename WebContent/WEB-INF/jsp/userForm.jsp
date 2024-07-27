@@ -55,7 +55,7 @@
 		</tr>
 	</table>
  <h1> ************************************ </h1>
- <h1> ******* NEW UPDATED APPLICATION ****** </h1>
+ <h1> Test!  Test!  Test!  Test!  Test! </h1>
  <h1> ************************************ </h1>
 
 <table width="30%" bgcolor="yellow" align="center" border=3>
