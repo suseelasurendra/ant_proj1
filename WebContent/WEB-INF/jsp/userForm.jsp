@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<form:form method="POST" commandName="user">
+<form:form method="POST" commandName="userdetails">
 	<table>
 		<tr>
 			<td>Student Name :</td>
